@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Harsh Moradiya 👋
 
-<!--
-**HarshMoradiya111/HarshMoradiya111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Flutter • Next.js • React • Firebase  
+🎓 MSc IT @ CHARUSAT, Anand  
+💼 3x Internship Experience | Open to Full Stack & Mobile Dev roles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Live |
+|---------|-------------|------|
+| 🛒 EcomSphere | E-commerce platform with admin dashboard & auth | Soon |
+| 🚗 Cars24 | Used car marketplace with AI pricing & Firebase | [Live](https://cars24-teal.vercel.app/) |
+| 📈 ForecastIQ | Sales forecasting engine using Python ML | Soon |
+| 💼 Portfolio | Personal portfolio site | Soon |
+
+---
+
+## 📊 GitHub Stats
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshMoradiya111&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMoradiya111&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshmoradiya21)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harshmoradiya111@gmail.com)
