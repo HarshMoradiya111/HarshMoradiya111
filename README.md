@@ -20,10 +20,10 @@
 ## 📌 Featured Projects
 | Project | Description | Live |
 |---------|-------------|------|
-| 🛒 EcomSphere | E-commerce platform with admin dashboard & auth | Soon |
+| 🛒 EcomSphere | E-commerce platform with admin dashboard & auth | [Live](https://ecomsphere.vercel.app/) |
 | 🚗 Cars24 | Used car marketplace with AI pricing & Firebase | [Live](https://cars24-teal.vercel.app/) |
-| 📈 ForecastIQ | Sales forecasting engine using Python ML | Soon |
-| 💼 Portfolio | Personal portfolio site | Soon |
+| 📈 ForecastIQ | Sales forecasting engine using Python ML | [Live](https://harshpatel2103-forecastiq-sales-engine.hf.space/) |
+| 💼 Portfolio | Personal portfolio site | [Live](https://harshmoradiya.vercel.app/) |
 
 ---
 
