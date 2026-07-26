@@ -1,5 +1,4 @@
 # Hi, I'm Harsh Moradiya 👋
-
 🚀 Full Stack Developer | Flutter • Next.js • React • Firebase  
 🎓 MSc IT @ CHARUSAT, Anand  
 💼 3x Internship Experience | Open to Full Stack & Mobile Dev roles  
@@ -14,13 +13,15 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 | Project | Description | Live |
 |---------|-------------|------|
-| 🛒 EcomSphere | E-commerce platform with admin dashboard & auth | [Live](https://ecomsphere.vercel.app/) |
+| 🛒 OZETAL | E-commerce platform for rosemary-based hair care products | [Live](https://www.ozetal.com/) |
 | 🚗 Cars24 | Used car marketplace with AI pricing & Firebase | [Live](https://cars24-teal.vercel.app/) |
 | 📈 ForecastIQ | Sales forecasting engine using Python ML | [Live](https://harshpatel2103-forecastiq-sales-engine.hf.space/) |
 | 💼 Portfolio | Personal portfolio site | [Live](https://harshmoradiya.vercel.app/) |
